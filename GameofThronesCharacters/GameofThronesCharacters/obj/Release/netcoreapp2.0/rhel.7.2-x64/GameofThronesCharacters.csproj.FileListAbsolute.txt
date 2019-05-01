@@ -1,0 +1,4 @@
+C:\Users\semtexerror\Desktop\GameofThronesCharacters\GameofThronesCharacters\obj\Release\netcoreapp2.0\rhel.7.2-x64\GameofThronesCharacters.csprojAssemblyReference.cache
+C:\Users\semtexerror\Desktop\GameofThronesCharacters\GameofThronesCharacters\obj\Release\netcoreapp2.0\rhel.7.2-x64\GameofThronesCharacters.csproj.CoreCompileInputs.cache
+C:\Users\semtexerror\Desktop\GameofThronesCharacters\GameofThronesCharacters\obj\Release\netcoreapp2.0\rhel.7.2-x64\GameofThronesCharacters.AssemblyInfoInputs.cache
+C:\Users\semtexerror\Desktop\GameofThronesCharacters\GameofThronesCharacters\obj\Release\netcoreapp2.0\rhel.7.2-x64\GameofThronesCharacters.AssemblyInfo.cs

@@ -814,11 +814,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\semtexerror\\source\\repos\\GameofThronesCharacters\\GameofThronesCharacters\\GameofThronesCharacters.csproj",
+      "projectUniqueName": "C:\\Users\\semtexerror\\Desktop\\GameofThronesCharacters\\GameofThronesCharacters\\GameofThronesCharacters.csproj",
       "projectName": "GameofThronesCharacters",
-      "projectPath": "C:\\Users\\semtexerror\\source\\repos\\GameofThronesCharacters\\GameofThronesCharacters\\GameofThronesCharacters.csproj",
+      "projectPath": "C:\\Users\\semtexerror\\Desktop\\GameofThronesCharacters\\GameofThronesCharacters\\GameofThronesCharacters.csproj",
       "packagesPath": "C:\\Users\\semtexerror\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\semtexerror\\source\\repos\\GameofThronesCharacters\\GameofThronesCharacters\\obj\\",
+      "outputPath": "C:\\Users\\semtexerror\\Desktop\\GameofThronesCharacters\\GameofThronesCharacters\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
